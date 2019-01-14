@@ -132,8 +132,8 @@
 		8B89B59421EBCA7C0063A5B0 /* AppCodebase  */ = {
 			isa = PBXGroup;
 			children = (
-				8B89B59621EBCB8A0063A5B0 /* Navigation */,
 				8B89B56321EB53ED0063A5B0 /* AppDelegate.swift */,
+				8B89B59621EBCB8A0063A5B0 /* Navigation */,
 				8B89B59521EBCB6E0063A5B0 /* homePage  */,
 			);
 			path = "AppCodebase ";
